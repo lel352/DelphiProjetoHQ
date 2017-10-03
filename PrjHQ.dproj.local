@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/05/04 17:38:55.000.525,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/05/04 17:43:45.000.570,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/05/05 10:06:48.000.212,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/05/06 15:34:03.000.881,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/05/23 10:53:09.000.449,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/05/23 11:00:20.000.498,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/05/23 11:04:07.000.377,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/05/23 11:08:13.000.554,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/06/02 17:42:57.000.468,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/06/13 17:47:17.000.812,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/07/08 15:09:01.000.912,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/07/08 15:15:17.000.710,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/08/25 08:55:48.000.547,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/06/07 10:40:33.000.951,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/06/07 14:44:26.000.675,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/06/07 15:28:51.000.954,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/06/26 08:24:03.000.980,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/06/28 17:56:50.000.069,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/06/28 17:58:59.000.201,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/10/03 10:28:58.000.932,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2017/10/03 10:29:13.000.254,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2017/10/03 10:30:03.000.644,C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Delphi\Desktop\Delphi\ProjetoHQ\PrjHQ.dproj</Transaction>
+    <Transaction>2017/10/03 10:30:24.000.185,=C:\Users\Delphi\Desktop\Delphi\ProjetoHQ\Unit1.pas</Transaction>
+    <Transaction>2017/10/03 10:31:22.000.126,C:\Users\Delphi\Desktop\Delphi\ProjetoHQ\Unit1.pas=C:\Users\Delphi\Desktop\Delphi\ProjetoHQ\Model\uEditora.pas</Transaction>
+    <Transaction>2017/10/03 10:37:03.000.046,=C:\Users\Delphi\Desktop\Delphi\ProjetoHQ\Unit1.pas</Transaction>
+    <Transaction>2017/10/03 10:38:40.000.848,C:\Users\Delphi\Desktop\Delphi\ProjetoHQ\Unit1.pas=C:\Users\Delphi\Desktop\Delphi\ProjetoHQ\Model\uMaterial.pas</Transaction>
+    <Transaction>2017/10/03 11:10:26.000.900,=C:\Users\Delphi\Desktop\Delphi\ProjetoHQ\Unit1.pas</Transaction>
+    <Transaction>2017/10/03 11:11:02.000.052,C:\Users\Delphi\Desktop\Delphi\ProjetoHQ\Unit1.pas=C:\Users\Delphi\Desktop\Delphi\ProjetoHQ\Model\uQuadrinhoModel.pas</Transaction>
+    <Transaction>2017/10/03 12:02:11.000.343,=C:\Users\Delphi\Desktop\Delphi\ProjetoHQ\Unit1.pas</Transaction>
+    <Transaction>2017/10/03 12:02:21.000.615,C:\Users\Delphi\Desktop\Delphi\ProjetoHQ\Unit1.pas=C:\Users\Delphi\Desktop\Delphi\ProjetoHQ\Model\uRevistaModel.pas</Transaction>
+    <Transaction>2017/10/03 12:03:34.000.502,=C:\Users\Delphi\Desktop\Delphi\ProjetoHQ\Unit1.pas</Transaction>
+    <Transaction>2017/10/03 12:03:41.000.944,C:\Users\Delphi\Desktop\Delphi\ProjetoHQ\Unit1.pas=C:\Users\Delphi\Desktop\Delphi\ProjetoHQ\Model\uLivroModel.pas</Transaction>
+  </Transactions>
+</BorlandProject>
