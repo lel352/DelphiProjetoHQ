@@ -1,0 +1,16 @@
+unit uAutorModel;
+
+interface
+
+type
+   TAutorModel = class
+
+   public
+
+   end;
+
+
+
+implementation
+
+end.

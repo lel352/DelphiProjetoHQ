@@ -1,0 +1,21 @@
+unit uMaterial;
+
+interface
+
+type
+   TMaterialModel = Class
+   private
+    FCodigo: Integer;
+    FNome: String;
+    FAtivo: boolean;
+    FData: String;
+   public
+      property codigo: Integer read FCodigo write FCodigo;
+      property nome: String read FNome write FNome;
+      property data: String read FData write FData;
+      property ativo: boolean read FAtivo write FAtivo;
+   end;
+
+implementation
+
+end.

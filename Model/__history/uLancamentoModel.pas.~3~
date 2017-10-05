@@ -1,0 +1,15 @@
+unit uLancamentoModel;
+
+interface
+
+type
+   TLancamentoModel = class
+
+   private
+
+   end;
+
+
+implementation
+
+end.

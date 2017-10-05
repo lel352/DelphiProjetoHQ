@@ -1,0 +1,18 @@
+unit uAutorModel;
+
+interface
+
+type
+   TAutorModel = class
+  private
+    FCodigo: Integer;
+    FNome: String;
+
+   public
+      property codigo: Integer read FCodigo write FCodigo;
+      property nome: String read FNome write FNome;
+   end;
+
+implementation
+
+end.

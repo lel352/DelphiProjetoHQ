@@ -6,7 +6,9 @@ uses
   uMaterialModel in 'Model\uMaterialModel.pas',
   uQuadrinhoModel in 'Model\uQuadrinhoModel.pas',
   uRevistaModel in 'Model\uRevistaModel.pas',
-  uLivroModel in 'Model\uLivroModel.pas';
+  uLivroModel in 'Model\uLivroModel.pas',
+  uAutorModel in 'Model\uAutorModel.pas',
+  uLancamentoModel in 'Model\uLancamentoModel.pas';
 
 {$R *.res}
 

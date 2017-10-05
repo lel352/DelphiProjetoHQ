@@ -1,0 +1,17 @@
+unit uRevistaModel;
+
+interface
+
+uses uMaterialModel;
+
+type
+   TRevistaModel = class(TMaterialModel)
+   public
+      property encardenado: boolean read FEncardenado write FEncardenado;
+      property tipo: String read FTipo write FTipo;
+      property periocidade: Integer read FPeriocidade write FPeriocidade;
+   end;
+
+implementation
+
+end.

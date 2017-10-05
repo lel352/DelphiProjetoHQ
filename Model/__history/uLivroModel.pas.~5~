@@ -1,0 +1,20 @@
+unit uLivroModel;
+
+interface
+
+uses uMaterialModel, uAutorModel;
+
+type
+   TLivroModel = class(TMaterialModel)
+  private
+    FAutor: array of array of TAutorModel;
+   public
+      property autor: array of array of TAutorModel  read FAutor write FAutor;
+
+   end;
+
+
+
+implementation
+
+end.

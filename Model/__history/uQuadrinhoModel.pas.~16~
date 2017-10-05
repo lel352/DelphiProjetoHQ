@@ -1,0 +1,19 @@
+unit uQuadrinhoModel;
+
+interface
+
+uses uMaterialModel;
+
+type
+   TQuadrinhoModel = Class(TMaterialModel)
+   private
+    FEncardenado: boolean;
+    FTipo: String;
+   public
+      property encardenado: boolean read FEncardenado write FEncardenado;
+      property tipo: String read FTipo write FTipo;
+   end;
+
+implementation
+
+end.
